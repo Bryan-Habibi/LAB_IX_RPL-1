@@ -1,0 +1,3 @@
+Nama: y
+Umur: 1
+Alamat: c
